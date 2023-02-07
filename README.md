@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erdinnurjaman
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Data Analystics, Business Intelligence, Data Science and Machine Learning
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me:
 • Email : erdin.nurjaman@gmail.com
 • LinkedIn : www.linkedin.com/in/erdinnurjaman
